@@ -29,4 +29,5 @@ Next step: player navigation:
  
 According to short time to implement list of feature and because of fast development I prefer to skip using two different clients (two pawn actor) in game and writing c++ code for making custom pawn movement. (and making custom player states) I can handle custom navigation bye passing input to simple Actor objects. Using Axis and action binding and move player physically can be acceptable.
 
+There is much time until morning and I want to make a double Espresso!
  
