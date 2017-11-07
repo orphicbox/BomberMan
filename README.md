@@ -35,7 +35,12 @@ I know that by today my one-week time will be finish. I have just 2.5 hours and 
 In fact, I think main features now work and **there is no problem to implement other features with their bonus**. 
 
 Of course I know **"IKA-Designed to work perfectly"** and all of my current code need to well testing and clean-up.
-
+------------------------------------------------------
+## After 15 hours development:
+I worked 2 hours and I add some small features:
+1- bombing limitation added by Reloading parameter
+2- add scorboard for each player
+3- fix destory wall minor bug
 
 
 
