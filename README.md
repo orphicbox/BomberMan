@@ -40,7 +40,9 @@ Also "ExplosionDelay" is for make delay before explosion.
 
 From last night 10PM until now (8:30 AM), I worked about 10:30 hours. Also few days ago, I think about implementation totally near 3 hours.
 I know that by today my one-week time will be finish. I have just 2.5 hours and many features are remained. 
-In fact, I think main features now work and there is no problem to implement other features with their bonus.
+In fact, I think main features now work and there is no problem to implement other features with their bonus. 
+
+Of course I know "IKA-Designed to work perfectly" and all of my current code need to well testing and clean-up.
 
 
 
