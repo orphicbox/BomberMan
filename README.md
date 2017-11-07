@@ -23,13 +23,10 @@ Now by choosing MapGenerator_BP actor in the world and setting  these three para
 
 ------------------------------------------------------
 ## Player navigation:
-According to short time to implement list of feature and because of fast development I prefer to skip using two different clients (two pawn actor) in game and writing c++ code for making custom pawn movement. (and making custom player states) I can handle custom navigation bye passing input to simple Actor objects. Using Axis and action binding and move player physically can be acceptable. 
-There is much time until morning and I want to make a double Espresso.
+According to short time to implement list of feature and because of fast development I prefer to skip using two different clients (two pawn actor) in game and writing c++ code for making custom pawn movement. (and making custom player states) I can handle custom navigation bye passing input to simple Actor objects. Using Axis and action binding and move player physically can be acceptable. There is much time until morning and I want to make a double Espresso.
 ------------------------------------------------------
-## Bomb Explosion
-Bomb should have two difference functionality: 1- calculate max length until first wall 2- create list of all destroyable items in their range.
-With "ExplosionLenght" variable, we can set fire length. Also in next steps we can change it by Superbomb item for longer explosions. 
-Also "ExplosionDelay" is for make delay before explosion.
+## Bomb Explosion:
+Bomb should have two difference functionality: 1- calculate max length until first wall 2- create list of all destroyable items in their range. With "ExplosionLenght" variable, we can set fire length. Also in next steps we can change it by Superbomb item for longer explosions. Also "ExplosionDelay" is for make delay before explosion.
 ------------------------------------------------------
 
 ## After 13 hours development:
